@@ -4,7 +4,7 @@ Team Mavericks is a robotics club based at Sant Longowal Institute of Engineerin
 <hr>
 <a href="https://www.linkedin.com/company/mavericks-sliet/">linkedin</a>
 <hr>
-Our Objectives:
+ <h2>Our Objectives:</h2>
 
 • To promote creativity and to increase the technical know-how and productivity of all the students at the Institute under one umbrella.
 
@@ -12,7 +12,7 @@ Our Objectives:
 
 • To develop the spirit of entrepreneurship among the students of Institute.
 <hr>
-Our Achievements:
+<h2>Our Achievements:</h2>
 
 • Won in Smart India Hackathon (SIH) in 2019, 2020.
 
@@ -21,3 +21,4 @@ Our Achievements:
 • Among the top teams in the E-YANTRA 2017, 2018, 2019 competition jointly by Ministry of Education, MoE (Formerly:MHRD) and IIT, Bombay in 2017, 2018, 2019.
 
 • Spreaded glories at various technical fests, including IIT Bombay , IIT Kanpur , IIT Delhi , IIT BHU , IIT Ropar , PEC , Thapar University & received cash prize at GNDU Amritsar.
+<hr><hr>
